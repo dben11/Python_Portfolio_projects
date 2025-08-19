@@ -1,5 +1,7 @@
 # Project Title: Password Generator
 
+## 1. Planning
+
 ## Project Description:
 
 - A simple command-line password generator built in Python. This tool helps you to create strong, random passwords of a specified length and is designed to be user-friendly by handling common input errors
